@@ -1,7 +1,5 @@
-Elegi alguna de estas opciones:
+Ingresa el número de opción que te interese consulta:
 
-Opcion 1 - Menu
-Opcion 2 - Reservar mesa
-Opcion 3 - Hacer consultas
-
-Opcion 0 - Salir
+1 - Mostrar el Menu 🍔🍔
+2 - Reservar mesa 🍽️🍽️
+3 - Hacer consultas 🙋‍♂️🙋‍♂️
