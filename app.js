@@ -98,7 +98,7 @@ const main = async () => {
     require("dotenv").config();
     const adapterDB = new MongoAdapter({
         dbUri: process.env.MONGO_DB_URI,
-        dbName: "YoutubeTest"
+        dbName: "dbVector"
     });
     const adapterFlow = createFlow([flowWelcome, menuFlow, flowMenuRest, flowReservar, flowConsultas, flowVoice]);
     const adapterProvider = createProvider(BaileysProvider);
