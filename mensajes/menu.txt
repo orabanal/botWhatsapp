@@ -1,5 +1,5 @@
-Ingresa el número de opción que te interese consulta:
+🙋🏻‍♂️ Ingresa el número de opción que te interese:
 
-1 - Mostrar el Menu 🍔🍔
-2 - Reservar mesa 🍽️🍽️
-3 - Hacer consultas 🙋‍♂️🙋‍♂️
+1 - Prefiero que me llamen 📳
+2 - Quiero inscribirme 📈
+3 - Necesito mas informacion 👩🏻‍💻👨🏽‍💻

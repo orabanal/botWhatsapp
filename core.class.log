@@ -2,10 +2,10 @@
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0D0D7F3A954B033BF11',
+    id: '3EB054D338675583E70C8C',
     participant: undefined
   },
-  messageTimestamp: 1714352014,
+  messageTimestamp: 1714375405,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -19,69 +19,69 @@
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3342fca3-c23c-41aa-bbce-8e91278f09e5',
-  keyword: 'key_fc7dd2ad-fd28-4778-8984-3ed6a4830d07',
-  answer: '...',
+  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
+  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
+  answer: '__call_action__',
   options: {
     media: null,
     buttons: [],
     capture: false,
     child: null,
-    delay: 100,
+    delay: 0,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
     callback: true
   },
-  refSerialize: '4009cab6e66f0cbed06ca956213dbd86'
+  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB03C8AFC37B8016AD46F',
+    id: '3EB0C97B2106E57084A0DF',
     participant: undefined
   },
-  messageTimestamp: 1714352039,
+  messageTimestamp: 1714375416,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
-    conversation: 'quiero mas información',
+    conversation: 'quiero iniciar',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'quiero mas información',
+  body: 'quiero iniciar',
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3342fca3-c23c-41aa-bbce-8e91278f09e5',
-  keyword: 'key_fc7dd2ad-fd28-4778-8984-3ed6a4830d07',
-  answer: '...',
+  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
+  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
+  answer: '__call_action__',
   options: {
     media: null,
     buttons: [],
     capture: false,
     child: null,
-    delay: 100,
+    delay: 0,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
     callback: true
   },
-  refSerialize: '4009cab6e66f0cbed06ca956213dbd86'
+  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0B24537FAB72869E174',
+    id: '3EB07509AA03938E6A5557',
     participant: undefined
   },
-  messageTimestamp: 1714352049,
+  messageTimestamp: 1714375428,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -95,35 +95,35 @@
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_234d231c-6bfc-47a4-ba66-686421cd11c0',
-  keyword: 'key_7f3d3bba-2919-406c-95e7-f14a94f6da84',
-  answer: 'Ingresa el número de opción que te interese consulta:\n' +
+  ref: 'ans_1c354b8c-75bf-4d96-955a-febdf3bfba89',
+  keyword: 'key_02d050b9-c9b7-4325-8ed0-da05e020815e',
+  answer: '🙋🏻‍♂️ Ingresa el número de opción que te interese:\n' +
     '\n' +
-    '1 - Mostrar el Menu 🍔🍔\n' +
-    '2 - Reservar mesa 🍽️🍽️\n' +
-    '3 - Hacer consultas 🙋‍♂️🙋‍♂️',
+    '1 - Prefiero que me llamen 📳\n' +
+    '2 - Quiero inscribirme 📈\n' +
+    '3 - Necesito mas informacion 👩🏻‍💻👨🏽‍💻',
   options: {
     media: null,
     buttons: [],
     capture: true,
     child: null,
-    delay: 0,
+    delay: 500,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
     callback: true
   },
-  refSerialize: '4b4588912c403a0d44cb7f78a8b73719'
+  refSerialize: '9aaa06225ae3dcf7923317a4a3f8c438'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB024C05FF6FDA74CA71D',
+    id: '3EB015CC2632EEB4C23583',
     participant: undefined
   },
-  messageTimestamp: 1714352055,
+  messageTimestamp: 1714375435,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -140,72 +140,30 @@
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0DFA13513F34B6088C9',
+    id: '3EB0A6219F1E57751E9F02',
     participant: undefined
   },
-  messageTimestamp: 1714352067,
+  messageTimestamp: 1714375446,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
-    conversation: 'interesante',
+    conversation: 'adio',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'interesante',
+  body: 'adio',
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3342fca3-c23c-41aa-bbce-8e91278f09e5',
-  keyword: 'key_fc7dd2ad-fd28-4778-8984-3ed6a4830d07',
-  answer: '...',
+  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
+  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
+  answer: '__call_action__',
   options: {
     media: null,
     buttons: [],
     capture: false,
-    child: null,
-    delay: 100,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '4009cab6e66f0cbed06ca956213dbd86'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51966564107@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB001F450423ABCF13FBE',
-    participant: undefined
-  },
-  messageTimestamp: 1714352078,
-  pushName: 'Pepe',
-  broadcast: false,
-  message: Message {
-    conversation: 'menu',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'menu',
-  from: '51966564107'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_234d231c-6bfc-47a4-ba66-686421cd11c0',
-  keyword: 'key_7f3d3bba-2919-406c-95e7-f14a94f6da84',
-  answer: 'Ingresa el número de opción que te interese consulta:\n' +
-    '\n' +
-    '1 - Mostrar el Menu 🍔🍔\n' +
-    '2 - Reservar mesa 🍽️🍽️\n' +
-    '3 - Hacer consultas 🙋‍♂️🙋‍♂️',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
     child: null,
     delay: 0,
     idle: null,
@@ -214,63 +172,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '4b4588912c403a0d44cb7f78a8b73719'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51966564107@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB01852480E1F0FEC030E',
-    participant: undefined
-  },
-  messageTimestamp: 1714352083,
-  pushName: 'Pepe',
-  broadcast: false,
-  message: Message {
-    conversation: '2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '2',
-  from: '51966564107'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51966564107@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0BEBF1491CFE3014A42',
-    participant: undefined
-  },
-  messageTimestamp: 1714352089,
-  pushName: 'Pepe',
-  broadcast: false,
-  message: Message {
-    conversation: 'gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'gracias',
-  from: '51966564107'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3342fca3-c23c-41aa-bbce-8e91278f09e5',
-  keyword: 'key_fc7dd2ad-fd28-4778-8984-3ed6a4830d07',
-  answer: '...',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 100,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '4009cab6e66f0cbed06ca956213dbd86'
+  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
 }
