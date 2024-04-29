@@ -31,12 +31,12 @@ const flowVoice = addKeyword(EVENTS.VOICE_NOTE).addAnswer("Un momento, estoy pro
 });
 
 const flowMenuRest = addKeyword(EVENTS.ACTION)
-    .addAnswer('Este es el menu', {
-        media: "https://www.ujamaaresort.org/wp-content/uploads/2018/01/Ujamaa-restaurant-menu.pdf"
+    .addAnswer('Excelente, en breve un asesor se comunicará contigo 🤜🏽🤛🏽. Por favor déjanos tu nombre :)', {
+        delay: 500,
     });
 
 const flowReservar = addKeyword(EVENTS.ACTION)
-    .addAnswer('Para hacer tu reserva puedes entrar a la siguiente ruta: www.haztureserva.com');
+    .addAnswer('Para hacer tu registro puedes entrar a la siguiente ruta: www.haztureserva.com');
 
 const flowConsultas = addKeyword(EVENTS.ACTION)
     .addAnswer("Escribe tu consulta", { capture: true }, async (ctx, ctxFn) => {

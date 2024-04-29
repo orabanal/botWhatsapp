@@ -2,10 +2,10 @@
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB054D338675583E70C8C',
+    id: '3EB09D318723F41EF8110C',
     participant: undefined
   },
-  messageTimestamp: 1714375405,
+  messageTimestamp: 1714376221,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
-  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
+  ref: 'ans_3a1e9a14-6c1c-41c8-93da-8b79f2d147bb',
+  keyword: 'key_8465a215-8696-4569-83cc-825df768d645',
   answer: '__call_action__',
   options: {
     media: null,
@@ -34,54 +34,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
+  refSerialize: 'c877e0047315c1ad319bf1db87ff5a0b'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0C97B2106E57084A0DF',
+    id: '3EB082FFB6CA8D37B7B548',
     participant: undefined
   },
-  messageTimestamp: 1714375416,
-  pushName: 'Pepe',
-  broadcast: false,
-  message: Message {
-    conversation: 'quiero iniciar',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'quiero iniciar',
-  from: '51966564107'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
-  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51966564107@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB07509AA03938E6A5557',
-    participant: undefined
-  },
-  messageTimestamp: 1714375428,
+  messageTimestamp: 1714376231,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -95,8 +57,8 @@
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1c354b8c-75bf-4d96-955a-febdf3bfba89',
-  keyword: 'key_02d050b9-c9b7-4325-8ed0-da05e020815e',
+  ref: 'ans_a8c546df-25b6-444e-b3ac-e0a578bfb9f1',
+  keyword: 'key_9ae234f9-db95-451e-9bbe-86e3a5c10776',
   answer: '🙋🏻‍♂️ Ingresa el número de opción que te interese:\n' +
     '\n' +
     '1 - Prefiero que me llamen 📳\n' +
@@ -114,16 +76,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9aaa06225ae3dcf7923317a4a3f8c438'
+  refSerialize: '378d2aeebb59564f7c6bae51ff4abdfe'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB015CC2632EEB4C23583',
+    id: '3EB0A910A2F532F35C7C33',
     participant: undefined
   },
-  messageTimestamp: 1714375435,
+  messageTimestamp: 1714376235,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
@@ -140,25 +102,25 @@
   key: {
     remoteJid: '51966564107@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0A6219F1E57751E9F02',
+    id: '3EB0C551F746DA0E9B0F2A',
     participant: undefined
   },
-  messageTimestamp: 1714375446,
+  messageTimestamp: 1714376240,
   pushName: 'Pepe',
   broadcast: false,
   message: Message {
-    conversation: 'adio',
+    conversation: 'omar',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'adio',
+  body: 'omar',
   from: '51966564107'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_49a5879f-495f-4c87-baac-e6db539cbc1f',
-  keyword: 'key_f4ae8f2a-473e-4551-8310-df6133ecdb72',
+  ref: 'ans_3a1e9a14-6c1c-41c8-93da-8b79f2d147bb',
+  keyword: 'key_8465a215-8696-4569-83cc-825df768d645',
   answer: '__call_action__',
   options: {
     media: null,
@@ -172,5 +134,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '23d80e4378d1b5a2074a60ef23e595b5'
+  refSerialize: 'c877e0047315c1ad319bf1db87ff5a0b'
 }
